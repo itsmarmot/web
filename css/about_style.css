@@ -5,10 +5,15 @@ body {
 }
 
 header {
-    background-color: #333;
+     background-color: #333;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
 }
 
 h1 {
