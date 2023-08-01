@@ -525,7 +525,7 @@ span {
 	content: '';
 	animation: gerak infinite 10s ease;
 	transform: translateY(-50%);
-	color: #D3D3D3;
+	color: #98FB98;
 	font-size: 50px;
 }
 
