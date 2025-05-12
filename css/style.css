@@ -531,15 +531,15 @@ span {
 
 @keyframes gerak {
 	0% {
-		content: 'I am College Student';
+		content: 'I am Tokutei Ginou batch 52 Student';
     font-size: 30px;
 	}
 	50% {
-		content: 'at Computer Science Faculty';
+		content: 'at Work Aboourd Academy';
     font-size: 30px;
 	}
 	100% {
-		content: 'from Bhayangkara University';
+		content: 'from Schoters by Ruangguru';
     font-size: 30px;
 	}
 }
